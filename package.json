@@ -1,0 +1,16 @@
+{
+  "name": "redismbcleaner",
+  "version": "1.0.0",
+  "description": "clear from redis db queue th sso",
+  "main": "deletequeue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rudnev Pavel",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "redis": "^2.8.0",
+    "util": "^0.10.3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "host": {
+	"redis1":"x.x.x.x",
+	"redis2":"x.x.x.x"
+  },
+  "port": 6379
+}
